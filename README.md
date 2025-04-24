@@ -4,8 +4,13 @@
 
 ### 👨‍💻 About Me
 - 🎓 (Class of April 2025) College of the North Atlantic - Software Development (Co-op)
+
+- 📫 How to reach me: [brad_collins623@hotmail.com](mailto:brad_collins623@hotmail.com)
+
 - 💼 Currently working on: `Learning Data Structures & Algorithms!`
+  
 - 🧠 Learning: `DSA`, `Spring Security`, `React Native`
+  
 - 🧰 Tools I Use:
     - 📦 AWS
     - 🛠️ Bash
@@ -22,8 +27,6 @@
     - 🐍 Python
     - ⚛️ React
     - 🔧 VSCode
-- 📫 How to reach me: [brad_collins623@hotmail.com](mailto:brad_collins623@hotmail.com)
-
 ---
 
 ### 🧰 Tech Stack
