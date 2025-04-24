@@ -7,9 +7,23 @@
 
 - 💼 Currently working on: `Learning Data Structures & Algorithms!`
 - 🧠 Learning: `DSA`, `Spring Security`, `React Native`
-- 🧰 Tools I Use: `Java`, `React`, `Node.js`, `MongoDB`, `MySQL`, `Git`, `Postman`, `VSCode`, `IntelliJ`, `Linux`
+- 🧰 Tools I Use:
+    - 📦 AWS
+    - 🛠️ Bash
+    - 🖥️ CSS
+    - 🐘 Git
+    - 🌐 HTML
+    - 💻 IntelliJ
+    - ☕ Java
+    - 🐧 Linux
+    - 🛢️ MongoDB
+    - 🐬 MySQL
+    - ⚛️ Node.js
+    - 📬 Postman
+    - 🐍 Python
+    - ⚛️ React
+    - 🔧 VSCode
 - 🎓 Class of 2025 at College of the North Atlantic - Software Development (Co-op)
-- ⚡ Fun fact: I can break and fix anything with enough coffee ☕
 - 📫 How to reach me: [brad_collins623@hotmail.com](mailto:brad_collins623@hotmail.com)
 
 ---
@@ -17,7 +31,7 @@
 ### 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,js,ts,nodejs,express,mongodb,mysql,html,css,git,github,postman,vscode,intellij,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,bash,css,git,html,intellij,java,linux,mongodb,mysql,nodejs,postman,python,react,vscode" />
 </div>
 
 ---
