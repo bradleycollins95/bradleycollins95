@@ -1,16 +1,16 @@
-<h1 align="center">Hey there! 👋 I'm Bradley Collins</h1>
+<h1 align="center">Hey there! 👋 My name is Bradley Collins</h1>
 <h3 align="center">A Passionate Software Developer from Newfoundland 🇨🇦</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 💼 Currently working on: `Insurance Web App (React + Spring Boot)`
-- 🧠 Learning: `AI`, `Spring Security`, `React Native`
+- 💼 Currently working on: `Learning Data Structures & Algorithms!`
+- 🧠 Learning: `DSA`, `Spring Security`, `React Native`
 - 🧰 Tools I Use: `Java`, `React`, `Node.js`, `MongoDB`, `MySQL`, `Git`, `Postman`, `VSCode`, `IntelliJ`, `Linux`
-- 🎓 Student at College of the North Atlantic, Software Development Co-op
+- 🎓 Class of 2025 at College of the North Atlantic - Software Development (Co-op)
 - ⚡ Fun fact: I can break and fix anything with enough coffee ☕
-- 📫 How to reach me: [collins.bradley.dev@gmail.com](mailto:collins.bradley.dev@gmail.com)
+- 📫 How to reach me: [brad_collins623@hotmail.com](mailto:brad_collins623@hotmail.com)
 
 ---
 
