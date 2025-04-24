@@ -1,8 +1,5 @@
 <h1 align="center">Hey there! 👋 My name is Bradley Collins</h1>
-<h3 align="center">A Passionate Software Developer from Newfoundland 🇨🇦</h3>
-
 ---
-
 ### 👨‍💻 About Me
 - 🎓 (Class of April 2025) College of the North Atlantic - Software Development (Co-op)
 - 💼 Currently working on: `Learning Data Structures & Algorithms!`
