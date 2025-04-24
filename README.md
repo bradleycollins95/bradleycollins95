@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 (Class of 2025) College of the North Atlantic - Software Development (Co-op)
+- 🎓 (Class of April 2025) College of the North Atlantic - Software Development (Co-op)
 - 💼 Currently working on: `Learning Data Structures & Algorithms!`
 - 🧠 Learning: `DSA`, `Spring Security`, `React Native`
 - 🧰 Tools I Use:
