@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! 👋 My name is Bradley Collins</h1>
+<h1 align="center">Hey there! 👋</h1>
 
 ---
 
