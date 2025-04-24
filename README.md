@@ -37,15 +37,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=bradleycollins&show_icons=true&theme=tokyonight" />
-  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bradleycollins&layout=compact&theme=tokyonight" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 <p align="center">
