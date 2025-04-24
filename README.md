@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-
+- 🎓 (Class of 2025) College of the North Atlantic - Software Development (Co-op)
 - 💼 Currently working on: `Learning Data Structures & Algorithms!`
 - 🧠 Learning: `DSA`, `Spring Security`, `React Native`
 - 🧰 Tools I Use:
@@ -23,7 +23,6 @@
     - 🐍 Python
     - ⚛️ React
     - 🔧 VSCode
-- 🎓 Class of 2025 at College of the North Atlantic - Software Development (Co-op)
 - 📫 How to reach me: [brad_collins623@hotmail.com](mailto:brad_collins623@hotmail.com)
 
 ---
